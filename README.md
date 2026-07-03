@@ -28,9 +28,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aflashareen/leet/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aflashareen/leet/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
