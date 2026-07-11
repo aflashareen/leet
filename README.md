@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aflashareen/leet/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aflashareen/leet/tree/master/0027-remove-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aflashareen/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
