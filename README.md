@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aflashareen/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aflashareen/leet/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aflashareen/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aflashareen/leet/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/aflashareen/leet/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aflashareen/leet/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aflashareen/leet/tree/master/2235-add-two-integers) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -80,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aflashareen/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
