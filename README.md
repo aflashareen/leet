@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aflashareen/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aflashareen/leet/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/aflashareen/leet/tree/master/0771-jewels-and-stones) |
+| [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aflashareen/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aflashareen/leet/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aflashareen/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
