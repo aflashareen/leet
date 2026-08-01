@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aflashareen/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aflashareen/leet/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aflashareen/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aflashareen/leet/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aflashareen/leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aflashareen/leet/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/aflashareen/leet/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/aflashareen/leet/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aflashareen/leet/tree/master/0771-jewels-and-stones) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aflashareen/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
