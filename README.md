@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aflashareen/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/aflashareen/leet/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/aflashareen/leet/tree/master/0771-jewels-and-stones) |
 | [2540-minimum-common-value](https://github.com/aflashareen/leet/tree/master/2540-minimum-common-value) |
+| [3842-toggle-light-bulbs](https://github.com/aflashareen/leet/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/aflashareen/leet/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
+| [3842-toggle-light-bulbs](https://github.com/aflashareen/leet/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
