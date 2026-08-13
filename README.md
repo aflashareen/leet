@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aflashareen/leet/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aflashareen/leet/tree/master/2413-smallest-even-multiple) |
+| [2544-alternating-digit-sum](https://github.com/aflashareen/leet/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aflashareen/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
