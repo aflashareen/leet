@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1528-shuffle-string](https://github.com/aflashareen/leet/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aflashareen/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aflashareen/leet/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/aflashareen/leet/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aflashareen/leet/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/aflashareen/leet/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aflashareen/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
