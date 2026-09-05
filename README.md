@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aflashareen/leet/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/aflashareen/leet/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aflashareen/leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aflashareen/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/aflashareen/leet/tree/master/3248-snake-in-matrix) |
 ## Math
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aflashareen/leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aflashareen/leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/aflashareen/leet/tree/master/3248-snake-in-matrix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aflashareen/leet/tree/master/0020-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aflashareen/leet/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
