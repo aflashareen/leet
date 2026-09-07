@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aflashareen/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/aflashareen/leet/tree/master/1528-shuffle-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aflashareen/leet/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aflashareen/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aflashareen/leet/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aflashareen/leet/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aflashareen/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aflashareen/leet/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -143,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
