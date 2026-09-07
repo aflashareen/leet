@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/aflashareen/leet/tree/master/3248-snake-in-matrix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/aflashareen/leet/tree/master/3842-toggle-light-bulbs) |
+| [3978-unique-middle-element](https://github.com/aflashareen/leet/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aflashareen/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [3978-unique-middle-element](https://github.com/aflashareen/leet/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
