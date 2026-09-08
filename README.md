@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/aflashareen/leet/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/aflashareen/leet/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aflashareen/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/aflashareen/leet/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
