@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aflashareen/leet/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/aflashareen/leet/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aflashareen/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aflashareen/leet/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
