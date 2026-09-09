@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aflashareen/leet/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aflashareen/leet/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aflashareen/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/aflashareen/leet/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aflashareen/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aflashareen/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aflashareen/leet/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
@@ -158,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aflashareen/leet/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aflashareen/leet/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
