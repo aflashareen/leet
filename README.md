@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aflashareen/leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aflashareen/leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aflashareen/leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/aflashareen/leet/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/aflashareen/leet/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/aflashareen/leet/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aflashareen/leet/tree/master/1816-truncate-sentence) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aflashareen/leet/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aflashareen/leet/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
